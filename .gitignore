@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .idea/
 .venv/
+farm_scores.db
+build/
+dist/
+main.spec

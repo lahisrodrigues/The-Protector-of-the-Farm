@@ -30,7 +30,7 @@ class Menu:
                 color = (255, 255, 0) if i == self.menu_index else COLOR_WHITE
                 self.menu_text(40, self.options[i], color, (WIN_WIDTH // 2, 280 + i * 50))
 
-            self.menu_text(30, "GAMES CONTROLS", (200, 200, 200), (WIN_WIDTH // 2, 520))
+            self.menu_text(30, "GAME CONTROLS", (200, 200, 200), (WIN_WIDTH // 2, 520))
             self.menu_text(25, "Move: Arrow keys or W A S D keys", (255, 255, 255), (WIN_WIDTH // 2, 560))
             self.menu_text(25, "Throw the Stone: SPACE Bar", (255, 255, 255), (WIN_WIDTH // 2, 590))
             self.menu_text(25, "Menu: Use arrows to select and ENTER to confirm", (255, 255, 255),
