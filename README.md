@@ -6,7 +6,7 @@
 
 ## <a id="português"></a> 🇧🇷 Português
 
-Um jogo 2D desenvolvido em Python como projeto prático para o curso de Sistemas de Informação da Uninter. O objetivo principal é controlar o personagem para proteger a fazenda e seus animais contra as ondas de inimigos, utilizando mecânicas de movimentação e tiro.
+Um jogo 2D desenvolvido em Python como projeto prático. O objetivo principal é controlar o personagem para proteger a fazenda e seus animais contra as ondas de inimigos, utilizando mecânicas de movimentação e tiro.
 
 ![Tela inicial do jogo](readme_images/menu_screenshot.png)
 
@@ -37,7 +37,7 @@ Um jogo 2D desenvolvido em Python como projeto prático para o curso de Sistemas
 
 ## <a id="english"></a> 🇺🇸 English
 
-A 2D game developed in Python as a practical project for the Information Systems degree at Uninter. The main objective is to control the character to protect the farm and its animals against waves of enemies, using movement and shooting mechanics.
+A 2D game developed in Python as a practical project. The main objective is to control the character to protect the farm and its animals against waves of enemies, using movement and shooting mechanics.
 
 ### ✨ Features
 * **Defense & Shooting Mechanics:** Fluid player movement to intercept enemies before they reach the prey.
